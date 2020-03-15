@@ -4,7 +4,6 @@ import {Link} from 'react-router-dom'
 function Card(props) {
     return (
         <div>
-    <div className="items">
         <div className="card">
             <div className="card-inner">
                 <div className="card-front">
@@ -19,7 +18,7 @@ function Card(props) {
             </div>
         </div>
     </div>
-        </div>
+
     )
 }
 

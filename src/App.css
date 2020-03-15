@@ -91,6 +91,9 @@ h2 {
 
 .items {
     padding: 0;
+    margin: 20px auto;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
 }
 
 .items:last-child {
